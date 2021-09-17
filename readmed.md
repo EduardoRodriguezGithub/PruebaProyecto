@@ -6,5 +6,4 @@ Listado de Productos
 4 Guajaba
 5 Fresa
 6 Limon
-
-8 Frutilla(JOB)
+7 Cifrut(JOB)
