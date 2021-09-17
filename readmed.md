@@ -6,4 +6,4 @@ Listado de Productos
 4 Guajaba
 5 Fresa
 6 Limon
-
+7 Frutilla*(Eduardo)
